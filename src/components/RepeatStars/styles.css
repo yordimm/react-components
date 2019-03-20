@@ -1,0 +1,11 @@
+.star{
+    width: 25px;
+    height: 25px;
+    fill: yellow;
+    
+}
+
+ svg image {
+    fill:  currentColor;
+    color:  yellow !important;
+  }
